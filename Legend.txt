@@ -11,3 +11,4 @@ sub-032226GorillaGorillaGorilla_ses-001_T1w.nii.gz ----> newout4.bse.nii.gz
 sub-032227ColobusGuereza_ses-001_acq-TR30_T1w.nii.gz ----> newout5.bse.nii.gz
 sub-032228MicrocebusMurinus_ses-001_acq-TR30_T1w.nii.gz ----> newout6.bse.nii.gz
 sub-032228MicrocebusMurinus_ses-001_acq-TR100_T1w.nii.gz ----> newout7.bse.nii.gz
+sub-032229PapioHamadryas_ses-001_acq-TR100_T1w.nii.gz ----> newout8.bse.nii.gz
