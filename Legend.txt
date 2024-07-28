@@ -1,0 +1,13 @@
+sub-032213_ses-001_run-1_T1w.nii.gz ----> output1.bse.nii.gz
+sub-032214_ses-001_run-1_T1w.nii.gz ----> output2.bse.nii.gz
+sub-032215_ses-001_run-1_T1w.nii.gz ----> output3.bse.nii.gz
+sub-032216_ses-001_run-1_T1w.nii.gz ----> output4.bse.nii.gz
+sub-032122_ses-001_run-1_T1w.nii.gz ----> output1n.bse.nii.gz
+sub-032123_ses-001_run-1_T1w.nii.gz ----> output2n.bse.nii.gz
+sub-032224PanTroglodytesTroglodytes_ses-001_acq-TR100_T1w.nii.gz ----> newout1.bse.nii.gz
+sub-032224PanTroglodytesTroglodytes_ses-001_acq-TR30_T1w.nii.gz ----> newout2.bse.nii.gz
+sub-032225SaimiriBoliviensis_ses-001_acq-TR30_T1w.nii.gz ----> newout3.bse.nii.gz
+sub-032226GorillaGorillaGorilla_ses-001_T1w.nii.gz ----> newout4.bse.nii.gz
+sub-032227ColobusGuereza_ses-001_acq-TR30_T1w.nii.gz ----> newout5.bse.nii.gz
+sub-032228MicrocebusMurinus_ses-001_acq-TR30_T1w.nii.gz ----> newout6.bse.nii.gz
+sub-032228MicrocebusMurinus_ses-001_acq-TR100_T1w.nii.gz ----> newout7.bse.nii.gz
